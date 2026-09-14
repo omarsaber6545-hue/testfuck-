@@ -1,0 +1,12 @@
+{
+  "defaultPrefix": "!",
+  "secondaryPrefix": "-",
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#22C55E",
+    "danger": "#EF4444",
+    "warning": "#F59E0B",
+    "gold": "#EAB308",
+    "dark": "#18181B"
+  }
+}

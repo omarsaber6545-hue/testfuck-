@@ -1,0 +1,21 @@
+{
+  "1548767007531467003_1512205578015871048": {
+    "guildId": "1548767007531467003",
+    "userId": "1512205578015871048",
+    "cash": 1000,
+    "gold": 20000005,
+    "bank": 0,
+    "gamePoints": 0,
+    "job": null,
+    "lastWork": 0,
+    "lastDaily": 0,
+    "dailyStreak": 0,
+    "lastRob": 0,
+    "lastTip": 0,
+    "shieldUntil": 0,
+    "loan": 0,
+    "totalRobbed": 0,
+    "level": 1,
+    "xp": 0
+  }
+}

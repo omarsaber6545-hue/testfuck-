@@ -1,0 +1,20 @@
+{
+  "1528611350337818695": {
+    "guildId": "1528611350337818695",
+    "prefix": "!",
+    "secondaryPrefix": "-",
+    "allowedBankChannels": [],
+    "allowedGameChannels": [],
+    "gameManagerRoles": [],
+    "owners": []
+  },
+  "1548767007531467003": {
+    "guildId": "1548767007531467003",
+    "prefix": "!",
+    "secondaryPrefix": "-",
+    "allowedBankChannels": [],
+    "allowedGameChannels": [],
+    "gameManagerRoles": [],
+    "owners": []
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "delivery",
+    "name": "عامل توصيل",
+    "description": "توصيل الطلبات والطرود السريعة داخل المدينة",
+    "priceGold": 3,
+    "reqLevel": 0,
+    "cooldownMinutes": 45,
+    "salaryCashMin": 500,
+    "salaryCashMax": 1200,
+    "salaryGold": 1
+  },
+  {
+    "id": "driver",
+    "name": "سائق خاص",
+    "description": "قيادة وتوصيل كبار الشخصيات",
+    "priceGold": 8,
+    "reqLevel": 2,
+    "cooldownMinutes": 45,
+    "salaryCashMin": 1000,
+    "salaryCashMax": 2000,
+    "salaryGold": 2
+  },
+  {
+    "id": "teacher",
+    "name": "معلم أكاديمي",
+    "description": "تدريس وشرح المواد للطلاب والباحثين",
+    "priceGold": 15,
+    "reqLevel": 4,
+    "cooldownMinutes": 60,
+    "salaryCashMin": 1800,
+    "salaryCashMax": 3000,
+    "salaryGold": 3
+  },
+  {
+    "id": "police",
+    "name": "ضابط أمن",
+    "description": "حماية المنشآت وحفظ الأمن والحد من الجرائم",
+    "priceGold": 25,
+    "reqLevel": 6,
+    "cooldownMinutes": 60,
+    "salaryCashMin": 2500,
+    "salaryCashMax": 4000,
+    "salaryGold": 4
+  },
+  {
+    "id": "engineer",
+    "name": "مهندس معماري",
+    "description": "تخطيط وبناء المشاريع والأبراج الحديثة",
+    "priceGold": 40,
+    "reqLevel": 8,
+    "cooldownMinutes": 60,
+    "salaryCashMin": 3500,
+    "salaryCashMax": 5500,
+    "salaryGold": 5
+  },
+  {
+    "id": "doctor",
+    "name": "طبيب جراح",
+    "description": "إجراء العمليات الدقيقة وتقديم الرعاية الصحية",
+    "priceGold": 60,
+    "reqLevel": 10,
+    "cooldownMinutes": 75,
+    "salaryCashMin": 5000,
+    "salaryCashMax": 7500,
+    "salaryGold": 7
+  },
+  {
+    "id": "programmer",
+    "name": "مبرمج ومطور أنظمة",
+    "description": "تطوير البوتات والذكاء الاصطناعي والحلول التقنية",
+    "priceGold": 85,
+    "reqLevel": 12,
+    "cooldownMinutes": 75,
+    "salaryCashMin": 6500,
+    "salaryCashMax": 9500,
+    "salaryGold": 9
+  },
+  {
+    "id": "pilot",
+    "name": "كابتن طيار",
+    "description": "قيادة الطائرات والرحلات الجوية الدولية",
+    "priceGold": 120,
+    "reqLevel": 15,
+    "cooldownMinutes": 90,
+    "salaryCashMin": 9000,
+    "salaryCashMax": 13000,
+    "salaryGold": 12
+  },
+  {
+    "id": "investor",
+    "name": "رجل أعمال ومستثمر",
+    "description": "إدارة الصفقات الكبرى وتمويل المشاريع الضخمة",
+    "priceGold": 200,
+    "reqLevel": 20,
+    "cooldownMinutes": 90,
+    "salaryCashMin": 15000,
+    "salaryCashMax": 25000,
+    "salaryGold": 20
+  }
+]
